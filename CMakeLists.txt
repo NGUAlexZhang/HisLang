@@ -15,7 +15,7 @@ file(GLOB_RECURSE SOURCES
     ${SRC_DIR}/*.cpp
 )
 
-add_executable(hcp ${SOURCES})
+add_executable(his ${SOURCES})
 
 
 # set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/build)
