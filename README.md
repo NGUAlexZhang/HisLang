@@ -1,14 +1,14 @@
-![HerLang](/assets/logo.png)
-# HarLang - A code language for her.
+![HisLang](/assets/hislogo.png)
+# HarLang - A code language for his.
 
-Programming is not a male privilege, girls can also program well.
+Programming is not a female privilege, boys can also program well.
 
 ## Demo
 
-```herlang
+```hislang
 function you_can_do_this:
-    say "Hello! Her World!"
-    say "编程很美，也属于你！"
+    say "Hello! His World!"
+    say "编程很帅，也属于你！"
 end
 
 start:
@@ -19,14 +19,14 @@ end
 it outputs:
 
 ```
-Hello! Her World!
-编程很美，也属于你！
+Hello! His World!
+编程很帅，也属于你！
 ```
 
 ## How to use
 
 ```
-Usage: hcp in.herc out.cpp
+Usage: his in.hisc out.cpp
 ```
 
 and then you can use `g++` to build an executable file.
@@ -49,8 +49,6 @@ cd build
 cmake ..
 cmake --build . --config Release
 ```
-
-or, you can use Microsoft Visual Studio.
 
 ## Notes
 
