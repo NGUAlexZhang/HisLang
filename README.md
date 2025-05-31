@@ -1,5 +1,5 @@
 ![HisLang](/assets/hislogo.png)
-# HarLang - A code language for his.
+# HisLang - A code language for his.
 
 Programming is not a female privilege, boys can also program well.
 
